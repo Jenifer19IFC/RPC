@@ -1,0 +1,24 @@
+{
+    "id": "12c17d7c-3fc0-4ff8-b389-c7cd1c924e53",
+    "nome": {
+        "nome": "Jon"
+    },
+    "lista": {
+        "id": "5f8f7c1f-d161-4af1-9251-1ae03dcfc94a",
+        "listaItens": [
+            {
+                "descricao": "Caqui",
+                "qtd": 10,
+                "preco": 3.0
+            },
+            {
+                "descricao": "Uva",
+                "qtd": 1,
+                "preco": 1.0
+            }
+        ],
+        "dataCriacao": "2024-04-09 21:31:03",
+        "valorTotal": 31.0,
+        "qtdTotalItens": 11
+    }
+}
