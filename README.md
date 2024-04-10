@@ -1,3 +1,4 @@
 # RPC
 Disciplina BCC - Sistemas Distribuídos 
-- Aplicação de lista de compras desenvolvido por meio da abordagem API RESTful. 
+- Remote Procedure Call (RPC)
+- Aplicação de lista de compras implementada por meio da abordagem RPC API RESTful. 
